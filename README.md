@@ -14,7 +14,9 @@ yarn add -D eslint-plugin-react @typescript-eslint/eslint-plugin @typescript-esl
 # eslint-config
 
 Eslint の設定もそのまま使用させていただく
-https://github.com/oukayuka/ReactBeginnersBook-2.0/blob/master/06-lint/01-eslint/.eslintrc.js
+https://github.com/oukayuka/ReactBeginnersBook-2.0/blob/master/06-lint/03-mysetting/.eslintrc.js
+
+semi だけ不要にした
 
 # Prettier etc..
 
